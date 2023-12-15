@@ -3,4 +3,7 @@
     <string name="generate_random_number">Generate Random Number</string>
     <string name="setrange">SetRange</string>
     <string name="generate">Generate</string>
+    <string name="addition">Addition</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
 </resources>
